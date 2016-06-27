@@ -1,0 +1,1 @@
+Web API 如果要使用Post去做測試的話  可以在Chrome上面去安裝 PostMan 就可以方便測試了!!
